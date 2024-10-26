@@ -1,1 +1,2 @@
-Kaut kāds saturs
+Pirms tam rinda
+Pēc tam rinda
